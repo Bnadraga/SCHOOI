@@ -1,0 +1,32 @@
+.ai-span{
+    font-style: italic;
+}
+.ai-span-two{
+    font-weight: 700;
+}
+.text{
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+}
+img{
+    margin-bottom: 100px;
+}
+iframe{
+    display: flex;
+}
+.duck{
+    position: absolute;
+    right: 0;
+    top: 500px;
+}
+.first-link{
+    position: relative;
+    right: 650px;
+}
+.text{
+    font-weight: 700;
+}
+.table{
+    border: 1px solid grey;
+    margin-bottom: 10px;
+}
